@@ -1,7 +1,7 @@
 # Drowsiness-Detection
 
-Certainly. Here's the complete modified README with the corrected code block:
-markdownCopy# Eye Detection Alarm System
+
+
 
 This Python script uses computer vision to detect eyes and trigger an alarm when the user's eyes are closed for a certain duration. It's designed to help prevent drowsiness, especially useful for drivers or people working long hours.
 
